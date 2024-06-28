@@ -1,1 +1,13 @@
-/* your code */
+table{
+	border-collapse: collapse;
+	width: 600px;
+	height: 300px;
+	border: none;
+}
+thead{
+	background-color: #1364F0;
+	color: white;
+}
+.even{
+	background-color: #D6D6D6 ;
+}
